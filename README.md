@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello, friend? 👋 That's lame. Maybe I should give you a name, but that's a slippery slope. You're only in my head.
 
 <!--
 **NightlyD3V/NightlyD3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
