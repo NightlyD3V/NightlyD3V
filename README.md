@@ -1,4 +1,4 @@
-## With great power
+## With great power :electron:
 
 <!--
 **NightlyD3V/NightlyD3V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
