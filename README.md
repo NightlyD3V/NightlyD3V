@@ -1,4 +1,4 @@
-## 👋 Welcome to my page! 🔥
+## 👋 Welcome to my page! 
 <div id="header" align="center">
   
 </div>
